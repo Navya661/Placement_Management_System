@@ -1,32 +1,6 @@
 # Placement--Management--System
 
-
-# Preview 
-![](screenshort_MINi_project/home.png)
-
-![](screenshort_MINi_project/index_home.png)
-![](screenshort_MINi_project/about_index.png)
-![](screenshort_MINi_project/prefrences.png)
-![](screenshort_MINi_project/mail_index.png)
-![](screenshort_MINi_project/hod_login_index1.png)
-![](screenshort_MINi_project/hod_manage_users.png)
-![](screenshort_MINi_project/hod_notif.png)
-
-![](screenshort_MINi_project/student_index.png)
-
-
-![](screenshort_MINi_project/student_dashboard.png)
-![](screenshort_MINi_project/student_queries.png)
-![](screenshort_MINi_project/principal_home.png)
-![](screenshort_MINi_project/principal_manage_users.png)
-![](screenshort_MINi_project/principal_queries.png)
-![](screenshort_MINi_project/principal_student_eligibility.png)
-
-
-
-
 # Used Technologies
-
 ## Lanuages
   1. HTML5
   2. CSS3
